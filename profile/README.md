@@ -9,5 +9,5 @@ Gateway will make able to servers to send mod-like resources to the client. Well
 
 First client version will be relased as a mod (bc is easier) but I spect making a client in the future.
 
-> **Note** I just started this project so I'm gonna be working on it slowly.
-
+> **Note** 
+> I just started this project so I'm gonna be working on it slowly.
